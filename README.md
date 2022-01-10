@@ -8,3 +8,4 @@ High-Level Order of Execution:
 
 To Note:
 - DO NOT MODIFY `.gitignore`
+- annoy @benbroks if something doesn't wokr. it's probably his fault
